@@ -3,9 +3,7 @@
   <p>
     <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW03bzk4cHZmeHAzZHYyazQ2c3RxZW1sOWJ1MWZiZGphdDNzd2w1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DQH9ekPklIbVnnV1bx/giphy.gif" alt="GIF de Código" />
   </p>
-
-  <h1>Weslley Lafrata Sampaio</h1>
-  <p>Desenvolvedor Full-Stack | Estudante Alura</p>
+  
 </div>
   
   <br>
@@ -15,7 +13,7 @@
  
   
   <p style="max-width: 800; line-height: 1.6;">
-    Desenvolvedor Full-Stack em formação acelerada pela Alura, motivado por meus três filhos a dominar a stack para construir soluções para o futuro. Minha paixão é unir código a causas sociais e estéticas imersivas. O N.O.I.R é a prova do meu foco em transformar fundamentos em lógica complexa, utilizando Vibe Coding com Gemini para evoluir rapidamente de iniciante a Full-Stack.
+Sou um desenvolvedor Full-Stack em formação, trilhando uma transição de carreira da área de logística para a programação. Atualmente, estou focado em aprimorar meu nível de inglês e desbravar a plataforma Alura, desafiando-me a concluir novos projetos para entender como essa área funciona e onde posso me encaixar. Meu objetivo é desenvolver um alto nível em lógica de programação, construindo uma base de conhecimentos sólida que me permitirá resolver problemas complexos e criar projetos do zero de forma totalmente autônoma. Com essa base forte de habilidades, pretendo alcançar meus objetivos de médio prazo: conquistar uma bolsa para a graduação na FIAP e uma vaga de Junior em uma empresa de tecnologia multinacional.
   </p>
 
   <br>
@@ -70,8 +68,14 @@
   </p>
 
 </div>
+
+<div alingn="left">
+  
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=highcontrast&animation=default&layout=default&font=Architect&quoteType=random&fontColor=silver&bgSource=unsplash&unsplashQuery=https%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Di%26url%3Dhttps%253A%252F%252Fwww.remove.bg%252Fg%252Fphotographers%26psig%3DAOvVaw1VUWm-zws8FnY9GEHHAdjt%26ust%3D1764165238402000%26source%3Dimages%26cd%3Dvfe%26opi%3D89978449%26ved%3D0CBUQjRxqFwoTCOjL1fG5jZEDFQAAAAAdAAAAABAE)
+  </div>
+
 <div>
 
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 
 </div>
